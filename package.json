@@ -1,0 +1,19 @@
+{
+  "name": "resturant-project",
+  "version": "1.0.0",
+  "description": "in class restuarant project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testone"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthony9292/resturant-project.git"
+  },
+  "author": "Anthony Ndegwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthony9292/resturant-project/issues"
+  },
+  "homepage": "https://github.com/anthony9292/resturant-project#readme"
+}
